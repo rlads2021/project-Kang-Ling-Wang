@@ -8,6 +8,6 @@ Component:
 
 - inputs: 104人力銀行網站
 - outputs:
-    - [`../data/front.csv`](../data/front.csv)
-    - [`../data/back.csv`](../data/back.csv)
-    - [`../data/bigdata.csv`](../data/bigdata.csv)
+    - [`front.csv`](../data/front.csv)
+    - [`back.csv`](../data/back.csv)
+    - [`bigdata.csv`](../data/bigdata.csv)
